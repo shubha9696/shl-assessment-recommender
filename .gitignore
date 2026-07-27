@@ -5,3 +5,4 @@ data/sample_conversations.zip
 __pycache__/
 *.pyc
 .env
+.vercel
